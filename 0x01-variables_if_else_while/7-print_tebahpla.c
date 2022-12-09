@@ -5,7 +5,7 @@
  * Return: Always 0 (success)
  */
 int main(void)
-{	
+{
 	int x = 25;
 	char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
 
