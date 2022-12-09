@@ -6,13 +6,13 @@
 int main(void)
 {
 	int x = 48;
-	/* char alphabet[] = "0123456789";*/
+	/*char alphabet[] = "0123456789";*/
 	while (x < 58)
 	{
 		putchar(x);
 		if (x != 57)
 		{
-			putchat(',');
+			putchar(',');
 			putchar(' ');
 		}
 		x++;
