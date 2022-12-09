@@ -18,7 +18,7 @@ int main (void)
 		}
 		else
 		{
-			putchar (alphabet[x]);
+			putchar(alphabet[x]);
 			x++;
 		}
 	}
