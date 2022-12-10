@@ -35,7 +35,7 @@ int main(void)
 					}
 					i++;
 				}
-				e++
+				e++;
 			}
 			g++;
 		}
