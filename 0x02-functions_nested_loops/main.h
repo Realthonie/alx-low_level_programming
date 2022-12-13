@@ -1,3 +1,2 @@
-int
-_putchar(char);
+int_putchar(char);
 print_alphabet
