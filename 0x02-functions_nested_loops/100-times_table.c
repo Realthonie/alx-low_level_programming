@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *  * prints_times_table - prints the n times_table.
+ *  * print_times_table - prints the n times_table.
  *   * @n: Argument to be passed.
  */
 void print_times_table(int n)
