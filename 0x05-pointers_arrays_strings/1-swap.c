@@ -2,8 +2,8 @@
 
 /**
  * swap_int - function to swap two ints
- * @n: first int
- * @n: second int
+ * @a: first int
+ * @b: second int
  *
  * RETURN: does not return a value
  */
