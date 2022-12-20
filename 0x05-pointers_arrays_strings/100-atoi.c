@@ -10,7 +10,7 @@ int _atoi(char *s)
 	unsigned int total = 0;
 	char working = 0;
 
-	whle (*s)
+	while (*s)
 	{
 		if (*s == '-')
 			sign = sign * -1;
