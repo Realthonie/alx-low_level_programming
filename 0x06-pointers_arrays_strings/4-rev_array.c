@@ -2,7 +2,7 @@
 
 /**
  * reverse_array - function to reverse the contents of an array
- * @: array to be reversed
+ * @a: array to be reversed
  * @n : lenght of arrow a
  *
  * Return: void
