@@ -6,7 +6,7 @@
  *
  * Return: A pointer to the encoded string.
  */
-char *rot13(char *)
+char *rot13(char *a)
 {
 	int j;
 	int i = 0;
