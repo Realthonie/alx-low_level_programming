@@ -2,7 +2,7 @@
 /**
  * *_strcat - Appending src to dest
  * @dest: destination string
- * @src: appending string
+ * @src: appended string
  *
  * Return: return type of char
  */
