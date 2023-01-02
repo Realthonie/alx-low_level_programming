@@ -20,9 +20,9 @@ void print_diagsums(int *a, int size)
 		tl += a[i];
 	}
 
-	for (i = size - 1; i < s -1; i += sizw - 1)
+	for (i = size - 1; i < s - 1; i += size - 1)
 	{
 		tr += a[i];
 	}
-	printf("%d, %d\n, tl, tr);
+	printf("%d, %d\n", tl, tr);
 }
