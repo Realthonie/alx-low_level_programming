@@ -25,7 +25,7 @@ int is_square_root(int num, int squared)
  * _sqrt_recursion - entry point
  * Description - function that returns the
  * natural square root of a number
- * @n: the function accepts an input saved into n
+ * *@n: the function accepts an input saved into n
  * Return: success (integer)
  */
 int _sqrt_recursion(int n)
