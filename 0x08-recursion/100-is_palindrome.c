@@ -1,11 +1,11 @@
 #include "main.h"
 /**
- * is_palidrome - Entry point
+ * is_palindrome - Entry point
  * Description - A function that takes a pointer to an int
  * *@s: the function accepts an input saved into s
  * Return: Nothing for now
  */
-int is_palidrome(char *s)
+int is_palindrome(char *s)
 {
 	if (*s == 0)
 		return (1);
@@ -26,12 +26,12 @@ int _strlen_recursion(char *s)
 }
 
 /**
- * check_pal - checks the characters recursively for palidrome
+ * check_pal - checks the characters recursively for palindrome
  * @s: string to check
  * @i; iterator
  * @len: length of the string
  *
- * Return: 1 if palidrome, 0 if not
+ * Return: 1 if palindrome, 0 if not
  */
 int check_pal(char *s, int i, int len)
 {
