@@ -30,6 +30,7 @@ int is_square_root(int num, int squared)
 int _sqrt_recursion(int n)
 {
 	int squared = 0;
+
 	if (n < 0)
 
 	{
