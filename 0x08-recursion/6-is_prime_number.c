@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_prime_number - Entry point
+ * is_prime - Entry point
  * Description - Function that returns 1 if the input integer is a prime number
  * @n: input number
  * @c: iterator
