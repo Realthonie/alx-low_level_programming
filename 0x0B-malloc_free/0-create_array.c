@@ -2,6 +2,7 @@
 #include "main.h"
 
 /**
+ * *create_array - creates an array of chairs
  * main - entry point
  * Description - Function that creates an array of chars and
  * initializes it with a specific character
