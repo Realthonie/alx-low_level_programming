@@ -1,1 +1,1 @@
-Structures and Typedef inC Programming
+Structures and Typedef in C Programming
