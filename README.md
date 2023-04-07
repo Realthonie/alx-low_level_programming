@@ -1,2 +1,1 @@
-#!/bin/bash
-Alx C Programming Directory
+C - Hash tables
